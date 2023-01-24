@@ -193,7 +193,7 @@
 
 ### Advanced concepts apart from interviews 
 - [ ] Fast IO
-- [x] File handling
+- [ ] File handling
 - [ ] Bitwise + DP
 - [ ] Extended Euclidean algorithm
 - [ ] Modulo Multiplicative Inverse
@@ -204,10 +204,10 @@
 - [ ] Fermat’s Theorem
 - [ ] Wilson's Theorem
 - [ ] Euler's Theorem
-- [x] Lucas Theorem
-- [x] Chinese Remainder Theorem
+- [ ] Lucas Theorem
+- [ ] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
-- [x] Multithreading
+- [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
